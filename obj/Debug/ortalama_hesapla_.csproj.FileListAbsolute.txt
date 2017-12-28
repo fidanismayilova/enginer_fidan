@@ -1,0 +1,15 @@
+D:\c#programlar\ortalama_hesapla_\ortalama_hesapla_\obj\Debug\ResolveAssemblyReference.cache
+D:\c#programlar\ortalama_hesapla_\ortalama_hesapla_\obj\Debug\ortalama_hesapla_.Form1.resources
+D:\c#programlar\ortalama_hesapla_\ortalama_hesapla_\obj\Debug\ortalama_hesapla_.Properties.Resources.resources
+D:\c#programlar\ortalama_hesapla_\ortalama_hesapla_\obj\Debug\ortalama_hesapla_.csproj.GenerateResource.Cache
+D:\c#programlar\ortalama_hesapla_\ortalama_hesapla_\bin\Debug\ortalama_hesapla_.exe
+D:\c#programlar\ortalama_hesapla_\ortalama_hesapla_\bin\Debug\ortalama_hesapla_.pdb
+D:\c#programlar\ortalama_hesapla_\ortalama_hesapla_\obj\Debug\ortalama_hesapla_.exe
+D:\c#programlar\ortalama_hesapla_\ortalama_hesapla_\obj\Debug\ortalama_hesapla_.pdb
+C:\Users\EylülElampc\Desktop\ortalama_hesapla_\ortalama_hesapla_\obj\Debug\ortalama_hesapla_.exe
+C:\Users\EylülElampc\Desktop\ortalama_hesapla_\ortalama_hesapla_\obj\Debug\ortalama_hesapla_.pdb
+C:\Users\EylülElampc\Desktop\ortalama_hesapla_\ortalama_hesapla_\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\EylülElampc\Desktop\ortalama_hesapla_\ortalama_hesapla_\obj\Debug\ortalama_hesapla_.Form1.resources
+C:\Users\EylülElampc\Desktop\ortalama_hesapla_\ortalama_hesapla_\obj\Debug\ortalama_hesapla_.Properties.Resources.resources
+C:\Users\EylülElampc\Desktop\ortalama_hesapla_\ortalama_hesapla_\obj\Debug\ortalama_hesapla_.csproj.GenerateResource.Cache
+C:\Users\EylülElampc\Desktop\ortalama_hesaplama_Fidan_ismayılova\ortalama_hesapla_\ortalama_hesapla_\obj\Debug\ortalama_hesapla_.exe
